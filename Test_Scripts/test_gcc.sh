@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc main.c -o main.o
+gcc ../../main.c -o ../../main.o
