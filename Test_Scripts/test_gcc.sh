@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc $FILE_NAME -o finally.o
+gcc main.c -o main.o
